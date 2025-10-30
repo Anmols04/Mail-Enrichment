@@ -142,3 +142,8 @@ Multi-model comparison option
 
 This project is licensed under the MIT License.
 Feel free to use, modify, and share with attribution.
+
+Images 
+<img width="1919" height="1079" alt="Screenshot 2025-10-30 115259" src="https://github.com/user-attachments/assets/4a5f7c3a-1e49-404d-985f-67ea0e93c1d6" />
+<img width="1919" height="1079" alt="Screenshot 2025-10-30 115322" src="https://github.com/user-attachments/assets/00cf8aea-3a84-4668-8750-7bc4f0399429" />
+
